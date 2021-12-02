@@ -10,7 +10,7 @@
     ],
     "AppSetting": [
       {
-        "appislive": "yes",
+        "Appislive": "yes",
         "Am_Inter": "ca-app-pub-3940256099942544/1033173712",
         "Am_Banner": "ca-app-pub-3940256099942544/2247696110",
         "Am_Native": "ca-app-pub-3940256099942544/6300978111",
