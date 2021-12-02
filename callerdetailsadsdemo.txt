@@ -11,11 +11,11 @@
     "AppSetting": [
       {
         "Appislive": "yes",
-        "Am_Inter": "ca-app-pub-3940256099942544/1033173712",
-        "Am_Banner": "ca-app-pub-3940256099942544/2247696110",
-        "Am_Native": "ca-app-pub-3940256099942544/6300978111",
-        "Am_AppOpen": "ca-app-pub-3940256099942544/3419835294",
-        "Am_Reward": "ca-app-pub-3940256099942544/5224354917",
+        "Am_Inter": "/6499/example/interstitial",
+        "Am_Banner": "/6499/example/banner",
+        "Am_Native": "/6499/example/native",
+        "Am_AppOpen": "/6499/example/app-open",
+        "Am_Reward": "/6499/example/rewarded",
         "Fb_Inter": "YOUR_PLACEMENT_ID",
         "Fb_Banner": "YOUR_PLACEMENT_ID",
         "Fb_Native": "YOUR_PLACEMENT_ID",
