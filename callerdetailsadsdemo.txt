@@ -21,7 +21,7 @@
         "fb_banner": "YOUR_PLACEMENT_ID",
         "fb_nativebanner": "YOUR_PLACEMENT_ID",
         "fb_reward": "YOUR_PLACEMENT_ID",
-        "ads_prioritytype": "fix",
+        "ads_prioritytype": "fihyx",
         "ads_priority": "0,2",
         "showads": "yes",
         "clickcount": "0",
