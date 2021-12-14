@@ -11,10 +11,10 @@
     "AppSetting": [
       {
         "appislive": "yes",
-        "am_inter": "/22660434831/BK_Infotech_Call_Details_Interstitial",
-        "am_native": "/22660434831/BK_Infotech_Call_Details_Native",
-        "am_banner": "/22660434831/BK_Infotech_Call_Details_Banner",
-        "am_appopen": "/22660434831/BK_Infotech_Call_Details_Appopen",
+        "am_inter": "/21952429235,22482178870/TTS_CALLDETAILS_INTERSTITIAL",
+        "am_native": "/21952429235,22482178870/TTS_CALLDETAILS_NATIVE_AD",
+        "am_banner": "/21952429235,22482178870/TTS_CALLDETAILS_TOP_AD",
+        "am_appopen": "/21952429235,22482178870/TTS_CALLDETAILS_OPEN_AD",
         "am_reward": "ca-app-pub-3940256099942544/5224354917",
         "fb_inter": "YOUR_PLACEMENT_ID",
         "fb_native": "YOUR_PLACEMENT_ID",
